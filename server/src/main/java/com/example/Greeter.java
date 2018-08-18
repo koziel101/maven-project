@@ -12,9 +12,11 @@ public class Greeter {
 
   }
 
-  //TODO: Add javadoc comment
-  public String greet(String someone) {
-      //Adding comment to validate Jenkins automated push
+  /*
+   * @param someone the name of a person
+   * @return greeting Strng
+   */
+  public final String greet(final String someone) {
     return String.format("Hello, %s!", someone);
   }
 }
