@@ -15,5 +15,5 @@
   </servlet-mapping>
   -->
 
-  <!-- Adding comment to trigger automated buil from Jenkins -->
+  <!-- Adding comment to trigger automated buil from Jenkins when commit -->
 </web-app>
