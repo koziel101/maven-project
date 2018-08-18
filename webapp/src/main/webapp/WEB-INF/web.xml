@@ -14,4 +14,6 @@
   <url-pattern>/hello</url-pattern>
   </servlet-mapping>
   -->
+
+  <!-- Adding comment to trigger automated buil from Jenkins -->
 </web-app>
